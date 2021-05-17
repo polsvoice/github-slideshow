@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This night methinks is but the daylight sick. -- William Shakespeare, "The Merchant of Venice"
 Use the left arrow to go back!
